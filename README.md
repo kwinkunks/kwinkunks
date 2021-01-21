@@ -1,4 +1,4 @@
-### :hammer_and_pick: Tools for subsurface scientists
+### :hammer_and_pick: &nbsp; Open tools for subsurface scientists
 
 You can install all of these with `pip`, or clone the repo:
 
@@ -6,7 +6,7 @@ You can install all of these with `pip`, or clone the repo:
 - [`striplog`](https://github.com/agile-geoscience/striplog) &mdash; a data type for subsurface intervals, e.g. striplogs or stratigraphic columns.
 - [`bruges`](https://github.com/agile-geoscience/bruges) &mdash; a Bag of Really Useful Geophysical Equations and Stuff.
 
-### :nerd_face: Recent nerdy blog posts
+### :nerd_face: &nbsp; Recent nerdy blog posts
 
 - [Does your machine leanring smell?](https://agilescientific.com/blog/2020/12/15/does-your-machine-learning-smell) &mdash; ML smell is like code smell for ML.
 - [A big new almost-open dataset: Groningen](https://agilescientific.com/blog/2020/12/7/big-new-almost-open-data) &mdash; the latest large subsurface dataset.
