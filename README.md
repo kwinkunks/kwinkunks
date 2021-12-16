@@ -24,4 +24,4 @@ You can install all of these with `pip`, or clone the repo:
 - pickgthis.io
 -->
 
-<img src="https://pbs.twimg.com/profile_images/834827464257986561/Fc_gr7Pk_400x400.jpg" width=20px /> &nbsp; Like rocks and computers? [**Join the Software Underground!**](https://softwareunderground.org/slack)
+<img src="https://pbs.twimg.com/profile_images/1460207519763214338/-3Uj5Z1v_400x400.jpg" width=24px /> &nbsp; Like rocks and computers? [**Join the Software Underground!**](https://softwareunderground.org/slack)
