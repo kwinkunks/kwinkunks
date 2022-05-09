@@ -10,7 +10,7 @@ You can install all of these with `pip`, or clone the repo:
 
 - [Illuminated equations](https://agilescientific.com/blog/2021/1/14/illuminated-equations) &mdash; integrating symbolic and code representations of maths.
 - [Machine learning safety measures](https://agilescientific.com/blog/2021/1/7/machine-learning-safety-measures) &mdash; it's easy to mess up a model, so be careful!
-- [Does your machine learning smell?](https://agilescientific.com/blog/2020/12/15/does-your-machine-learning-smell) &mdash; ML smell is like code smell for ML.
+- [Does your machine learning smell?](https://agilescientific.com/blog/2020/12/15/does-your-machine-learning-smell) &mdash; ML smell: code smell for ML.
 - [A big new almost-open dataset: Groningen](https://agilescientific.com/blog/2020/12/7/big-new-almost-open-data) &mdash; the latest large subsurface dataset.
 <!--
 - [Geoscientist, challenge thyself](https://agilescientific.com/blog/2020/4/16/geoscientist-challenge-thyself) &mdash; a short series of coding challenges.
