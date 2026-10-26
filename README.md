@@ -4,4 +4,4 @@
 
 🌍 In terms of domain, I'm especially interested in geoscience, especially applied geology and seismic geophysics, having spent most of my career in the energy industry, especially petroleum and geothermal energy. I have a PhD in sedimentology. If you're also into digital subsurface themes, consider [joining the Software Underground](https://softwareunderground.org/), a free Mattermost community.
 
-💥 For my blog and latest non-work-related projects, including [`redflag`](https://scienxlab.org/redflag), head over to [Scienxlab](https://scienxlab.org/)
+💥 For my blog and latest non-work-related projects head over to [Scienxlab](https://scienxlab.org/)
